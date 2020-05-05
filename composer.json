@@ -1,0 +1,19 @@
+{
+    "name": "certificate-transparency/asn1",
+    "description": "ASN1 parser",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Arjun Sharma",
+            "email": "arjuniet.28@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Certificate-transparency\\asn1\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    
+    "require": {}
+}
